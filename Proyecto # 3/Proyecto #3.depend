@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1591396532 source:c:\users\villegas\desktop\portafolio\proyecto #3\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	"Reserva.h"
+	"Libro.h"
+	"Disco.h"
+	"Software.h"
+
+1591385956 c:\users\villegas\desktop\portafolio\proyecto #3\fecha.h
+	<iostream>
+
+1590615163 source:c:\users\villegas\desktop\portafolio\proyecto #3\notas.c
+
+1591320093 c:\users\villegas\desktop\portafolio\proyecto #3\reserva.h
+	<iostream>
+	"Fecha.h"
+
+1591054102 c:\users\villegas\desktop\portafolio\proyecto #3\libro.h
+	<iostream>
+	<string>
+	"Material.h"
+
+1590706282 c:\users\villegas\desktop\portafolio\proyecto #3\material.h
+	<iostream>
+	<string>
+
+1591054102 c:\users\villegas\desktop\portafolio\proyecto #3\disco.h
+	<iostream>
+	<string>
+	"Material.h"
+
+1591054102 c:\users\villegas\desktop\portafolio\proyecto #3\software.h
+	<iostream>
+	<string>
+	"Material.h"
+
